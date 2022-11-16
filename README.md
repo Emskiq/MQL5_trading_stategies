@@ -2,7 +2,7 @@
 Getting into mql5 and technical analysis
 I am presenting you some of my strategies, when I was getting into algo trading.
 
-Used a list of indicators:
+Used the following indicators:
  - MACD oscillator
  - RSI
  - SAR
